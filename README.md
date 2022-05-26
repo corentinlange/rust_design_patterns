@@ -1,1 +1,1 @@
-# rust_design_patterns
+# Rust design patterns
